@@ -1,5 +1,5 @@
 {
-  "total_videos": 841,
+  "total_videos": 842,
   "date_range": {
     "newest": "2026-09-27",
     "oldest": "2024-05-21"
@@ -38,6 +38,70 @@
       ],
       "transcript_chars": 1486,
       "folder": "2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech"
+    },
+    {
+      "title": "The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.",
+      "video_id": "2IAYFgAqX6g",
+      "youtube_url": "https://www.youtube.com/watch?v=2IAYFgAqX6g",
+      "publish_date": "2026-09-27",
+      "duration": "32:57",
+      "duration_seconds": 1977,
+      "view_count": 5817,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI team productivity stalls when one person speeds up and the rest of the pipeline does not. Here are six principles for turning individual AI coding gains into work that actually ships.\n\nFull post with Faster Factory Guide:\nhttps://natesnewsletter.substack.com/p/scale-ai-developer-productivity?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Nate's Library MCP: https://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside teams that bought AI coding tools and got a bigger queue?\n\nThe common story is that a ten-times developer makes a ten-times team, but the real question is which part of your pipeline decides when work actually finishes.\n\nIn this video, I share the inside scoop on six principles pulled from developers and teams already running agents at volume:\n\n- Why one person's tenfold gain does not reach the customer\n- How Shopify keeps agent work usable by more than one person\n- What the agent must never be allowed to delete\n- Where to look first when finished work keeps waiting\n\nThe gains are real, and they only reach the customer if somebody does the unglamorous work of fixing the system around the fast person.\n\nChapters:\n00:00 The setup issue behind 2,462 pull requests\n01:34 Where the useful setups actually get shared\n04:14 Principle one, make agent work multiplayer\n07:46 Principle two, keep the history out of the chat\n09:24 Principle three, humans still answer for what ships\n12:08 Why accountability has to become checks\n13:44 Principle four, leave work someone can pick up\n15:53 Principle five, let the agent see its own results\n20:14 Principle six, remove the process that stopped helping\n24:06 The meetings agents do not replace\n27:13 What the Hugging Face incident actually shows\n31:02 The Faster Factory Kit\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "AI coding tools",
+        "Cursor",
+        "pstack",
+        "Shopify River",
+        "AI developer productivity",
+        "scaling AI across teams",
+        "agent accountability",
+        "nates library mcp"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Shopify",
+          "Hugging Face",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Hugging Face",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "\u0641\u064a \u064a\u0648\u0644\u064a\u0648\u060c \u0623\u0631\u0633\u0644\u062a \u0644\u0648\u0631\u064a\u0646  \u062a\u0627\u0646 \u062d\u0648\u0627\u0644\u064a \u0623\u0644\u0641 \u0637\u0644\u0628 \u0633\u062d\u0628  (pull request)"
+      ],
+      "transcript_chars": 30024,
+      "folder": "2026-09-27-the-ai-bottleneck-why-your-team-isnt-shipping-heres-the-fix"
     },
     {
       "title": "Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance",
