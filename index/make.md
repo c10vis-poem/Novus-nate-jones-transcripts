@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (594 episodes):
+Episodes discussing **Make** (595 episodes):
 
+- [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)

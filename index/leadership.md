@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (338 episodes):
+Episodes discussing **Leadership** (339 episodes):
 
+- [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)

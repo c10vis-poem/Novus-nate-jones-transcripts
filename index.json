@@ -1,10 +1,44 @@
 {
-  "total_videos": 840,
+  "total_videos": 841,
   "date_range": {
-    "newest": "2026-09-26",
+    "newest": "2026-09-27",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech",
+      "video_id": "Vbo2zV9fC_g",
+      "youtube_url": "https://www.youtube.com/watch?v=Vbo2zV9fC_g",
+      "publish_date": "2026-09-27",
+      "duration": "1:39",
+      "duration_seconds": 99,
+      "view_count": 3147,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Revolut CEO Nik Storonsky bought a roughly $400 million superyacht, and now a London broker is suing him for a commission of about $20 million. The broker says it's owed the fee. Storonsky's lawyers say he didn't need the broker at all, because a ChatGPT prompt, searching public information, turned up the yacht's previous owner, and he pursued the deal himself. None of us are buying a yacht, but this is the bigger trend: AI is taking information that used to sit with brokers and handing it to everyone. Yachts today, maybe cars and real estate next.\n\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech\nLife sales of the rich and famous chat GPT style"
+      ],
+      "transcript_chars": 1486,
+      "folder": "2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech"
+    },
     {
       "title": "Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance",
       "video_id": "V2LM98zJlko",

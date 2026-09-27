@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (136 episodes):
+Episodes discussing **Startups** (137 episodes):
 
+- [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [What is Omarchy?  #OS #AI #agents](../episodes/2026-09-17-what-is-omarchy-os-ai-agents/transcript.md) (2026-09-17)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
