@@ -1,10 +1,46 @@
 {
-  "total_videos": 842,
+  "total_videos": 843,
   "date_range": {
-    "newest": "2026-09-27",
+    "newest": "2026-09-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Everybody's talking about Jev. Here's what it is #jev #ai",
+      "video_id": "j8Wi8ovhoGY",
+      "youtube_url": "https://www.youtube.com/watch?v=j8Wi8ovhoGY",
+      "publish_date": "2026-09-28",
+      "duration": "2:02",
+      "duration_seconds": 122,
+      "view_count": 7042,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "If you've been seeing Jev everywhere, here's what it is: a model that can't write a single sentence. It only makes choices, and that's exactly why it's so fast and so cheap. It's a general-purpose classifier: messy information goes in and a simple decision comes out, reliably. A coffee-nerd friend of mine wants something that fast to tune a Chemex pour or dial in espresso, and this is that. It came from a tiny team working in stealth, started by someone who used to work on ChatGPT, and developers are picking it up faster than any model before it. If you've got a problem that's really just a decision, try it and tell me what you build.\n\nMore on why Jev changes how software gets built: https://natesnewsletter.substack.com/p/you-cannot-tell-which-parts-of-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's what it is #jev #ai\nHow much of our world is making simple decisions out of complicated information"
+      ],
+      "transcript_chars": 2120,
+      "folder": "2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai"
+    },
     {
       "title": "A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech",
       "video_id": "Vbo2zV9fC_g",
