@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (344 episodes):
+Episodes discussing **Openai** (345 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Everybody's talking about Jev. Here's what it is #jev #ai](../episodes/2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai/transcript.md) (2026-09-28)
 - [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.](../episodes/2026-09-27-the-ai-bottleneck-why-your-team-isnt-shipping-heres-the-fix/transcript.md) (2026-09-27)

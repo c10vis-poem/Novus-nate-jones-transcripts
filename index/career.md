@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (371 episodes):
+Episodes discussing **Career** (372 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)

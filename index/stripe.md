@@ -1,7 +1,8 @@
 # Stripe
 
-Episodes discussing **Stripe** (41 episodes):
+Episodes discussing **Stripe** (42 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)

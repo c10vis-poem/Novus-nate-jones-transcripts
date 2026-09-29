@@ -1,10 +1,79 @@
 {
-  "total_videos": 843,
+  "total_videos": 844,
   "date_range": {
-    "newest": "2026-09-28",
+    "newest": "2026-09-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.",
+      "video_id": "gbbPBr3OraQ",
+      "youtube_url": "https://www.youtube.com/watch?v=gbbPBr3OraQ",
+      "publish_date": "2026-09-29",
+      "duration": "31:17",
+      "duration_seconds": 1877,
+      "view_count": 20010,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I gave Meta's new AI assistant, Muse, the most boring job I had: find the subscriptions I forgot to cancel. It found $5,350 a year, and it has cancelled $1,285 a year of that so far. That same small job is why I think Amazon locked Muse out of its store.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/meta-muse-agentic-shopping?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Nate's Library MCP: https://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Meta's Muse?\n\nThe common story is that the company with the smartest model wins, but the real question is which assistant you trust with the recurring work of your life.\n\nIn this video, I share the inside scoop on why Muse took off and who it threatens:\n- What people are handing Muse, from subscriptions to insurance to kids' schedules\n- How Muse makes AI usable for people who never cared about AI\n- Why I read Amazon's block as a fight over its ad business\n- Where Meta's money comes from if ordinary Muse use stays free\n\nMuse is early and asks for real trust with your data, and it is the clearest case yet that everyday usefulness decides who owns your attention.\n\nChapters:\n00:00 The subscriptions Muse found and cancelled\n01:30 Real jobs people are handing to Muse\n04:24 Beyond money: family schedules and logistics\n05:58 Why Muse is easy for nontechnical people\n11:17 Why Amazon locked Muse out\n13:38 How Meta plans to make money from Muse\n15:13 Amazon versus Walmart on AI shopping\n17:54 What forgotten subscriptions are worth to businesses\n19:14 Why the smartest model does not automatically win\n22:36 The team Zuckerberg built to ship Muse\n24:41 The platform Zuckerberg has always wanted\n27:36 What Muse means for everyone else\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "meta muse",
+        "muse ai assistant",
+        "mark zuckerberg",
+        "amazon",
+        "walmart",
+        "ai agents",
+        "agentic shopping",
+        "cancel subscriptions with ai",
+        "consumer ai",
+        "meta muse ai",
+        "muse ai",
+        "meta",
+        "meta ai",
+        "ai news",
+        "ai assistant"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "Apple",
+          "Shopify",
+          "GitHub",
+          "Stripe",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "\u0631\u0628\u0645\u0627 \u0644\u062f\u064a\u0643 \u0627\u0634\u062a\u0631\u0627\u0643 \u0643\u0646\u062a  \u062a\u0646\u0648\u064a \u0625\u0644\u063a\u0627\u0621\u0647\u060c \u0623\u0648  \u0641\u0627\u062a\u0648\u0631\u0629 \u062a\u0634\u0643 \u0641\u064a \u0623\u0646\u0647\u0627  \u0645\u0631\u062a\u0641\u0639\u0629 \u0644\u0644\u063a\u0627\u064a\u0629\u060c \u0623\u0648  \u0645\u0628\u0644\u063a \u0645\u0633\u062a\u0631\u062f \u0644\u0645 \u062a\u062c\u062f  \u0627\u0644\u0648\u0642\u062a \u0644\u0645\u062a\u0627\u0628\u0639\u062a\u0647"
+      ],
+      "transcript_chars": 27349,
+      "folder": "2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year"
+    },
     {
       "title": "Everybody's talking about Jev. Here's what it is #jev #ai",
       "video_id": "j8Wi8ovhoGY",

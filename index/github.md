@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (96 episodes):
+Episodes discussing **Github** (97 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)

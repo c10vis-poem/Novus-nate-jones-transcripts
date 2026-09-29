@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (92 episodes):
+Episodes discussing **Apple** (93 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)

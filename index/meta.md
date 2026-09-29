@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (145 episodes):
+Episodes discussing **Meta** (146 episodes):
 
+- [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia](../episodes/2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n/transcript.md) (2026-09-18)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
