@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (326 episodes):
+Episodes discussing **Tutorials** (327 episodes):
 
+- [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)

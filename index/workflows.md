@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (346 episodes):
+Episodes discussing **Workflows** (347 episodes):
 
+- [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage](../episodes/2026-09-22-is-instinct-worth-it-ai-aiagents-instinct-automation-imessage/transcript.md) (2026-09-22)
 - [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
