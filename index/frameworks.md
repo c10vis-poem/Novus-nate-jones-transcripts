@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (665 episodes):
+Episodes discussing **Frameworks** (666 episodes):
 
+- [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [Everybody's talking about Jev. Here's what it is #jev #ai](../episodes/2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai/transcript.md) (2026-09-28)
 - [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)

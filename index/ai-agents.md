@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (386 episodes):
+Episodes discussing **Ai Agents** (387 episodes):
 
+- [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
 - [Everybody's talking about Jev. Here's what it is #jev #ai](../episodes/2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai/transcript.md) (2026-09-28)
 - [Why world models matter #nvidia #ai #physicalai #robots](../episodes/2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots/transcript.md) (2026-09-25)
 - [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)

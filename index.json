@@ -1,10 +1,42 @@
 {
-  "total_videos": 845,
+  "total_videos": 846,
   "date_range": {
-    "newest": "2026-09-30",
+    "newest": "2026-10-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Meta's Muse can get your money back #AI #meta #muse #agent",
+      "video_id": "otMlZycCBZ4",
+      "youtube_url": "https://www.youtube.com/watch?v=otMlZycCBZ4",
+      "publish_date": "2026-10-01",
+      "duration": "1:29",
+      "duration_seconds": 89,
+      "view_count": 1207,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Early Muse users are handing it the jobs nobody wants. One user, Chris Abraham, says it found a book subscription his family forgot to cancel, cancelled it, checked the refund policy, and recovered a year of payments. Another, Brad, says it spent 98 minutes on the phone with AT&T and compared offers from Verizon and T-Mobile, saving him more than three hours of calls. The bills, the subscriptions, and the charges you never had time to fight were problems long before AI. Now something can actually take them off your plate.\n\nMore on what this means, and why a giant retailer is paying attention: https://natesnewsletter.substack.com/p/an-ai-assistant-added-up-my-subscriptions?utm_source=youtube&utm_medium=video&utm_campaign=an-ai-assistant-added-up-my-subscriptions-launch&utm_content=shorts\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Meta"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Meta's Muse can get your money back #AI #meta #muse #agent\nNumber one, what is it actually like to hand a real life job that saves money to Muse and have it save me the time and the money that it w"
+      ],
+      "transcript_chars": 1652,
+      "folder": "2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent"
+    },
     {
       "title": "Opus 5.5 vs The Rest: Is this the new industry standard?",
       "video_id": "osZZjdMZVvA",

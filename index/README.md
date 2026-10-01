@@ -1,10 +1,10 @@
 # Nate B Jones Podcast Index
 
-Index of 845 episodes across 121 topics.
+Index of 846 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (665 episodes)
+- [Frameworks](frameworks.md) (666 episodes)
 - [Make](make.md) (597 episodes)
 - [Ai Tools](ai-tools.md) (593 episodes)
 - [Ai Strategy](ai-strategy.md) (561 episodes)
@@ -12,9 +12,9 @@ Index of 845 episodes across 121 topics.
 - [Product Management](product-management.md) (489 episodes)
 - [Ai News](ai-news.md) (420 episodes)
 - [Anthropic](anthropic.md) (396 episodes)
-- [Ai Agents](ai-agents.md) (386 episodes)
+- [Ai Agents](ai-agents.md) (387 episodes)
 - [Claude](claude.md) (375 episodes)
-- [Career](career.md) (373 episodes)
+- [Career](career.md) (374 episodes)
 - [Workflows](workflows.md) (347 episodes)
 - [Openai](openai.md) (346 episodes)
 - [Leadership](leadership.md) (339 episodes)
@@ -22,11 +22,11 @@ Index of 845 episodes across 121 topics.
 - [Google](google.md) (300 episodes)
 - [Tutorial](tutorial.md) (269 episodes)
 - [Prompting](prompting.md) (249 episodes)
-- [Framework](framework.md) (226 episodes)
+- [Framework](framework.md) (227 episodes)
 - [Gemini](gemini.md) (167 episodes)
 - [News Roundup](news-roundup.md) (164 episodes)
 - [Microsoft](microsoft.md) (162 episodes)
-- [Meta](meta.md) (146 episodes)
+- [Meta](meta.md) (147 episodes)
 - [Deep Dive](deep-dive.md) (142 episodes)
 - [X](x.md) (138 episodes)
 - [Startups](startups.md) (137 episodes)
@@ -113,13 +113,13 @@ Index of 845 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)

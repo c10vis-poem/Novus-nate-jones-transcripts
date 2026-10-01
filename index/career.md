@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (373 episodes):
+Episodes discussing **Career** (374 episodes):
 
+- [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
