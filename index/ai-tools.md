@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (594 episodes):
+Episodes discussing **Ai Tools** (595 episodes):
 
+- [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude](../episodes/2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude/transcript.md) (2026-10-02)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [Everybody's talking about Jev. Here's what it is #jev #ai](../episodes/2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai/transcript.md) (2026-09-28)

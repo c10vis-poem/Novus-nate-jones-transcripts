@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (376 episodes):
+Episodes discussing **Claude** (377 episodes):
 
+- [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude](../episodes/2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude/transcript.md) (2026-10-02)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.](../episodes/2026-09-27-the-ai-bottleneck-why-your-team-isnt-shipping-heres-the-fix/transcript.md) (2026-09-27)

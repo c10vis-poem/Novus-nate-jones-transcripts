@@ -1,10 +1,83 @@
 {
-  "total_videos": 847,
+  "total_videos": 848,
   "date_range": {
     "newest": "2026-10-02",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.",
+      "video_id": "avN5R3OhxYs",
+      "youtube_url": "https://www.youtube.com/watch?v=avN5R3OhxYs",
+      "publish_date": "2026-10-02",
+      "duration": "26:26",
+      "duration_seconds": 1586,
+      "view_count": 17204,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Microsoft is bringing an always-on AI agent built on OpenClaw into Outlook, Teams and Excel. Here's what Copilot Autopilot changes about AI at work, and 5 habits that get you more from the AI your company allows.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/copilot-autopilot-ai-habits?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with Microsoft's Autopilot agent?\nThe common story is that the smartest model wins, but the real question is what data your agent can see and how well you direct it.\n\nIn this video, I share the inside scoop on Microsoft's enterprise AI agent and the habits that decide who benefits:\n- Why Microsoft's workplace reach matters more than model rankings\n- How to give an AI agent a job with a clear finish\n- What auto routing means for cost and hard problems\n- Where Anthropic and Meta challenge Microsoft for enterprise work\n\nIf Microsoft is the AI your company allows, the habits you build now decide whether it does real work for you or becomes another tool you ignore.\n\nChapters:\n00:00 Microsoft is bringing OpenClaw to your employer\n02:17 Why 450 million Microsoft seats matter\n03:34 Same tools, very different results\n05:10 Takeaway 1: define what good looks like\n08:10 Takeaway 2: give the model the right data\n10:13 Microsoft's edge: trust and distribution\n11:51 Takeaway 3: make useful work repeat\n14:13 The case for smarter models redesigning work\n16:51 Auto routing and the cost of AI work\n19:57 Takeaway 4: match reasoning to difficulty\n21:34 Meta enters the enterprise race\n23:36 Takeaway 5: improve the next run\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Microsoft Copilot",
+        "Copilot Autopilot",
+        "OpenClaw",
+        "Microsoft 365",
+        "Satya Nadella",
+        "AI agents at work",
+        "how to use Copilot",
+        "windows autopilot"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Slack",
+          "Cursor"
+        ],
+        "people": [
+          "Satya Nadella"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "Cursor",
+          "Codex",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Back in February, I covered the week OpenCL broke everything"
+      ],
+      "transcript_chars": 28693,
+      "folder": "2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a"
+    },
     {
       "title": "Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude",
       "video_id": "TTSMh_CslnU",
