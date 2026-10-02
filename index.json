@@ -1,10 +1,44 @@
 {
-  "total_videos": 846,
+  "total_videos": 847,
   "date_range": {
-    "newest": "2026-10-01",
+    "newest": "2026-10-02",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude",
+      "video_id": "TTSMh_CslnU",
+      "youtube_url": "https://www.youtube.com/watch?v=TTSMh_CslnU",
+      "publish_date": "2026-10-02",
+      "duration": "1:37",
+      "duration_seconds": 97,
+      "view_count": 2349,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I love Legos, so I asked Opus 5.5 to build a 500-piece set. It made a video of the build with sound, printed a 63-page instruction booklet, walked through the full assembly, and gave me screenshots so I could check that every piece was a real Lego piece and every connection worked. The whole job took 89 million tokens and 1% of my weekly usage, which works out to about 50 cents on my subscription. On the API, the same job would have run $40 to $50. That's why task efficiency matters more and more. Everybody's work is different, and a good test of a model is whether it finishes your tasks well and what it costs to get there.\n\nI've covered this here: https://natesnewsletter.substack.com/p/claude-opus-5-5-review?utm_source=youtube&utm_medium=video&utm_campaign=claude-opus-5-5-review-launch&utm_content=shorts\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "5 is impressive and cost-efficient #taskefficient #opus5"
+      ],
+      "transcript_chars": 1499,
+      "folder": "2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude"
+    },
     {
       "title": "Meta's Muse can get your money back #AI #meta #muse #agent",
       "video_id": "otMlZycCBZ4",
