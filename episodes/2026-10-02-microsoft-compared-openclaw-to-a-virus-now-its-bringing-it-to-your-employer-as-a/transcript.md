@@ -76,6 +76,7 @@ yt_tags:
   - "windows autopilot"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"

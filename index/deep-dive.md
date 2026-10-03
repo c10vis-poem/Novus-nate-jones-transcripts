@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (142 episodes):
+Episodes discussing **Deep Dive** (143 episodes):
 
+- [Anthropic's $500 billion data center bet #ai](../episodes/2026-10-03-anthropics-500-billion-data-center-bet-ai/transcript.md) (2026-10-03)
 - [The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.](../episodes/2026-09-27-the-ai-bottleneck-why-your-team-isnt-shipping-heres-the-fix/transcript.md) (2026-09-27)
 - [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
