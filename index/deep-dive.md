@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (144 episodes):
+Episodes discussing **Deep Dive** (145 episodes):
 
+- [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Anthropic's $500 billion data center bet #ai](../episodes/2026-10-03-anthropics-500-billion-data-center-bet-ai/transcript.md) (2026-10-03)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)
 - [The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.](../episodes/2026-09-27-the-ai-bottleneck-why-your-team-isnt-shipping-heres-the-fix/transcript.md) (2026-09-27)

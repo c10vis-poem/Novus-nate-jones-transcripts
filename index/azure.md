@@ -1,7 +1,8 @@
 # Azure
 
-Episodes discussing **Azure** (26 episodes):
+Episodes discussing **Azure** (27 episodes):
 
+- [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)
 - [I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](../episodes/2026-07-19-i-cut-the-internet-and-let-ai-read-the-file-i-could-never-upload-it-caught-the-l/transcript.md) (2026-07-19)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)

@@ -1,7 +1,8 @@
 # Copilot
 
-Episodes discussing **Copilot** (44 episodes):
+Episodes discussing **Copilot** (45 episodes):
 
+- [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
