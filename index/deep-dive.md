@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (146 episodes):
+Episodes discussing **Deep Dive** (147 episodes):
 
+- [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity](../episodes/2026-10-06-openais-dots-caught-my-zombie-meeting-ai-openai-dots-aiagents-productivity/transcript.md) (2026-10-06)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Anthropic's $500 billion data center bet #ai](../episodes/2026-10-03-anthropics-500-billion-data-center-bet-ai/transcript.md) (2026-10-03)
